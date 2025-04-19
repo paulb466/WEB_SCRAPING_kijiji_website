@@ -1,6 +1,6 @@
 This is my script to web scrape the kijiji.ca website for any new items im looking for.<br><br>
 I store the kijiji web pages of items I want to be updated on new items for on my postgres database.
-I also store key words I dont want new messages for.
+I also store key words I dont want new messages for.<br><br>
 
 Basic Structure of the script:<br>
 LOOP
