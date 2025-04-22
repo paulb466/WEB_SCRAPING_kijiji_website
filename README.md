@@ -1,4 +1,4 @@
-This is my script to web scrape the kijiji.ca website for any new items im looking for.  When a new item is found it is sent to a Telegram bot I have set up that is only used for web scraping alerts.<br><br>
+This is my script to web scrape the kijiji.ca website for any new items im looking for.  It searches the website approx every 3 mins.  When a new item is found it is sent to a Telegram bot I have set up that is only used for web scraping alerts.<br><br>
 I store the kijiji web pages of items I want to be updated on new items for on my postgres database.
 I also store key words I dont want new messages for.<br><br>
 
